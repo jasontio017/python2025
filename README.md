@@ -1,4 +1,4 @@
-# Python 2025 Project Teams
+# Python 2025 Project lolllll
 
 These are the students and their projects for the Penang Science Cluster's Python 2025 Advance Workshop.
 
